@@ -1,5 +1,8 @@
 # CSV_to_SQLLite
 
+## Purpose of this Repo
+    The purpose of this repo is to convert input CSV data into an SQLite database with minimalistic validation.
+
 ## Required Libraries, Tools, or Frameworks
     Maven should be installed as well as the proper JDK (Version 8 or above)
 
